@@ -1,5 +1,5 @@
 # Github
 PyGitub program on Visual Sudio Code
-Libraries to install
-pip install PyGithub requests
-pip install Git
+#Libraries to install
+1.pip install PyGithub requests
+2.pip install Git
